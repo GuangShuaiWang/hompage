@@ -72,7 +72,7 @@ Ning, Wei*; Wu, Tao; Wu, Chenxu; Wang, Shixiang; Tao, Ziyu; **Wang, Guangshuai**
 
 [The repertoire of copy number alteration signatures in human cancer. BRIEFINGS IN BIOINFORMATICS.](https://academic.oup.com/bib/article/24/2/bbad053/7048898)
 
-Tao, Ziyu*; Wang, Shixiang; Wu, Chenxu; Wu, Tao; Zhao, Xiangyu; Ning, Wei; Wang, Guangshuai; Wang, Jinyu; Chen, Jing; Diao, Kaixuan; Chen, Fuxiang; Liu, Xue-Song#.01 Feb 2023. IF=13.994
+Tao, Ziyu*; Wang, Shixiang; Wu, Chenxu; Wu, Tao; Zhao, Xiangyu; Ning, Wei; **Wang, Guangshuai**; Wang, Jinyu; Chen, Jing; Diao, Kaixuan; Chen, Fuxiang; Liu, Xue-Song#.01 Feb 2023. IF=13.994
 
 </div>
 </div>
@@ -82,7 +82,7 @@ Tao, Ziyu*; Wang, Shixiang; Wu, Chenxu; Wu, Tao; Zhao, Xiangyu; Ning, Wei; Wang,
 
 [Seq2Neo: A Comprehensive Pipeline for Cancer Neoantigen Immunogenicity Prediction.](https://www.mdpi.com/1422-0067/23/19/11624)
 
-Diao, Kaixuan*; Chen, Jing; Wu, Tao; Wang, Xuan; Wang, Guangshuai; Sun, Xiaoqin; Zhao, Xiangyu; Wu, Chenxu; Wang, Jinyu; Yao, Huizi; Gerarduzzi, Casimiro; Liu, Xue-Song#. INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES. Oct 2022. 23(19). IF=5.923
+Diao, Kaixuan*; Chen, Jing; Wu, Tao; Wang, Xuan; **Wang, Guangshuai**; Sun, Xiaoqin; Zhao, Xiangyu; Wu, Chenxu; Wang, Jinyu; Yao, Huizi; Gerarduzzi, Casimiro; Liu, Xue-Song#. INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES. Oct 2022. 23(19). IF=5.923
 
 </div>
 </div>
@@ -92,7 +92,7 @@ Diao, Kaixuan*; Chen, Jing; Wu, Tao; Wang, Xuan; Wang, Guangshuai; Sun, Xiaoqin;
 
 [Extrachromosomal DNA formation enables tumor immune escape potentially through regulating antigen presentation gene expression.](https://www.nature.com/articles/s41598-022-07530-8)
 
-Wu, Tao*; Wu, Chenxu*; Zhao, Xiangyu; Wang, Guangshuai; Ning, Wei; Tao, Ziyu; Chen, Fuxiang; Liu, Xue-Song#. SCIENTIFIC REPORTS. Mar 2022. IF=4.996
+Wu, Tao*; Wu, Chenxu*; Zhao, Xiangyu; **Wang, Guangshuai**; Ning, Wei; Tao, Ziyu; Chen, Fuxiang; Liu, Xue-Song#. SCIENTIFIC REPORTS. Mar 2022. IF=4.996
 
 </div>
 </div>
