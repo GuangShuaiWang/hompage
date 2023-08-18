@@ -30,7 +30,7 @@ My research interest includes AI4Science, Bioinformatics and Cancer Immunotherap
 - *2016.09 - 2020.06*, Beijing Forestry University, Biotechnology.
 
 # 💻 Internships
-- *2023.09 - now*, Shanghai AI lab, China.
+- *2023.07 - now*, Shanghai AI lab, China.
 
 # 🔥 News
 - *2023.03*: &nbsp;🎉🎉 My first academic paper is accepted by Briefings in Bioinformatics.
