@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I'm an intern in the Shanghai AI lab, and looking for a PhD position! If you are intrested for me, please feel free to email me at [hiwangguangshuai@gmail.com](mailto:hiwangguangshuai@gmail.com).**
+**I'm an intern in the Shanghai AI lab. If you are intrested for me, please feel free to email me at [hiwangguangshuai@gmail.com](mailto:hiwangguangshuai@gmail.com).**
 
 I am now working on bioinformatic and AI4Science, expecially on biology.
 
