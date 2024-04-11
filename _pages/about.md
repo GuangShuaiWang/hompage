@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I'm an intern in the Shanghai AI lab. If you are intrested for me, please feel free to email me at [hiwangguangshuai@gmail.com](mailto:hiwangguangshuai@gmail.com).**
+**I'm a RA in the Shanghai AI lab. If you are intrested for my work, please feel free to email me at [hiwangguangshuai@gmail.com](mailto:hiwangguangshuai@gmail.com).**
 
 I am now working on bioinformatic and AI4Science, expecially on biology.
 
@@ -30,7 +30,7 @@ My research interest includes AI4Science, Bioinformatics and Cancer Immunotherap
 - *2016.09 - 2020.06*, Beijing Forestry University, Biotechnology.
 
 # 💻 Internships
-- *2023.07 - now*, Shanghai AI lab, China.
+- *2023.07 - 2023.09*, Shanghai AI lab, China.
 
 # 🔥 News
 - *2023.03*: &nbsp;🎉🎉 My first academic paper is accepted by Briefings in Bioinformatics.
@@ -96,10 +96,6 @@ Wu, Tao*; Wu, Chenxu*; Zhao, Xiangyu; **Wang, Guangshuai**; Ning, Wei; Tao, Ziyu
 
 </div>
 </div>
-
-# 🎖 Honors and Awards
-
-- 2018 Second-class Scholarship
 
 
 
