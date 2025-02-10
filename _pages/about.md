@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I'm a RA in the Shanghai AI lab. If you are intrested for my work, please feel free to email me at [hiwangguangshuai@gmail.com](mailto:hiwangguangshuai@gmail.com).**
+** **
 
 I am now working on bioinformatic and AI4Science, expecially on biology.
 
